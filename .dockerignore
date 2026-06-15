@@ -1,0 +1,9 @@
+.env
+__pycache
+*.pyc 
+*.db
+uploads/
+migrations/versions/
+.git
+seed.py 
+credentials.txt
