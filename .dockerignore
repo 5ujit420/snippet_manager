@@ -5,5 +5,4 @@ __pycache
 uploads/
 migrations/versions/
 .git
-seed.py 
 credentials.txt
